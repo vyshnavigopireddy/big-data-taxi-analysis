@@ -6,3 +6,6 @@ This repository contains **processed NYC Yellow Taxi trip data** from January 20
 ## 📂 Directory Structure
 [📂 View Kaggle Dataset](https://www.kaggle.com/datasets/vyshnavisrinivas/nyc-taxi-processed-dataset)
 
+[📂 View Kaggle Dataset](https://www.kaggle.com/datasets/vyshnavisrinivas/proccessed-nyc-taxi-datacsv)
+
+
