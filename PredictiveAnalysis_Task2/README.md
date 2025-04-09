@@ -22,9 +22,9 @@ This task focuses on building predictive models using machine learning technique
 
 ## 📁 Dataset
 
-- Dataset used: 
+- Dataset used: processed_nyc_taxi_data.parquet(which is come from task1 implementation)
 - Format: `.csv`
-- Size: 1 Crore records (filtered and cleaned)
+- Size: 1 Crore records 
 
 ---
 
