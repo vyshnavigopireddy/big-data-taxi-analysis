@@ -19,7 +19,8 @@ This task focuses on analyzing large-scale NYC Taxi data using **Dask**, a power
 - **Size:** ~7.5 GB (full), 1 crore rows (~1.8 GB) sample
 - **Source:** (https://www.kaggle.com/datasets/vyshnavisrinivas/proccessed-nyc-taxi-datacsv)
 - https://www.kaggle.com/datasets/vyshnavisrinivas/nyc-taxi-processed-dataset
-https://www.kaggle.com/datasets/praveenaparimi/nyc-taxi
+- https://www.kaggle.com/datasets/praveenaparimi/nyc-taxi
+- sample_nyc_taxi_data.csv
 
 ---
 
